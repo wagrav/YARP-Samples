@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Infoshare.Yarp.Samples.AuthGateway.SampleWebApp": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7038;http://localhost:5038",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Infoshare.Yarp.Samples.Swagger.SampleWebApp": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7028;http://localhost:5028",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
