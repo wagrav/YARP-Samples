@@ -1,4 +1,4 @@
-#Exercise
+# Exercise
 
 1. Run app using `run.bat` file.
 2. Visit pages:
